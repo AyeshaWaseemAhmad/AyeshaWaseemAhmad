@@ -24,7 +24,7 @@ Merged pull requests:
 - [Twenty](https://github.com/twentyhq/twenty): client SDK build fix ([#26234](https://github.com/twentyhq/twenty/pull/26234))
 - [DBDelve](https://github.com/ShayanAbbas1/dbdelve): SQL statement handling fixes ([#110](https://github.com/ShayanAbbas1/dbdelve/pull/110), [#109](https://github.com/ShayanAbbas1/dbdelve/pull/109))
 
-My Analog fix for emitting unary operators ([#2606](https://github.com/analogjs/analog/pull/2606)) was also selected by [XERJ](https://github.com/xerj-org/xerj), a local-first search engine and MCP server for AI agents, as a reference implementation for their Corpus Hub.
+My Analog fix for emitting unary operators ([#2606](https://github.com/analogjs/analog/pull/2606)) was also selected by [XERJ](https://github.com/xerj-org/xerj), a local-first search engine and MCP server for AI agents, as a reference implementation for their Corpus Hub. ([Contributor page](https://hub.xerj.org/contributors/AyeshaWaseemAhmad))
 
 I also have open PRs in [Nx](https://github.com/nrwl/nx), [Novu](https://github.com/novuhq/novu) and Vendure.
 
